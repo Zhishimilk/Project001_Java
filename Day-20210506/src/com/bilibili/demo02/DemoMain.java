@@ -41,6 +41,6 @@ public class DemoMain {
         new Thread(rb).start();
         new Thread(rb).start();
 
-
+        Person person = new Person();
     }
 }
